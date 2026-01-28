@@ -1,0 +1,7 @@
+{
+  "name": "TrafficFlow AI - Intelligent Traffic Management",
+  "description": "A comprehensive traffic control and route optimization dashboard powered by Generative AI to improve urban mobility and safety.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
